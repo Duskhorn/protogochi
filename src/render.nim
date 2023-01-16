@@ -1,0 +1,1 @@
+##TODO: transform logic items to notcurses renders
